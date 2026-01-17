@@ -13,9 +13,6 @@ The React app calls the API under `/api/*` endpoints.
 
 - `axios`
 - `cors`
-- `html2canvas`
-- `jspdf`
-- `lucide-react`
 - `react`
 - `react-dom`
 - `react-router-dom`
@@ -364,3 +361,4 @@ Current API CORS uses `AllowAnyOrigin()`. For production you should restrict it 
 - **Frontend API URL correct?** points to `https://localhost:7090/api`
 - **CORS enabled?** Already enabled in `Program.cs`
 - **HTTPS trusted?** Browser trusts ASP.NET dev certificate
+
